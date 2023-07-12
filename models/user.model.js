@@ -9,7 +9,7 @@ const UserSchema = new mongoose.Schema({
     password:{
         type:String
     },
-    biometricData: {
+    fingerprintImage:{
         type:String
     }
 
