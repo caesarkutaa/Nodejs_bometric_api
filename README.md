@@ -90,7 +90,3 @@ const verifyUserBybiometric = async (req, res) => {
 ## Contributing
 
 Contributions are welcome! If you find any issues or want to add new features, please submit a pull request.
-
-## License
-
-This code is released under the [MIT License](LICENSE).
